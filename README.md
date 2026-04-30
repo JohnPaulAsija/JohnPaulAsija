@@ -2,13 +2,14 @@ Software engineer in Connecticut. Completed an M.A.L.A. in the Great Books at St
 
 ### Currently building
 
-- **[Chrono-Carta](https://github.com/JohnPaulAsija/Chrono-Carta)** — Historical map guessing game built on Next.js and Supabase; players estimate when each map was drawn from a curated archive.
+- **[Chrono-Carta](https://github.com/JohnPaulAsija/Chrono-Carta)** — Browser game in the spirit of GeoGuessr; players guess what year a political map depicts. Built on Next.js and Supabase.
 
 Plus a small ecosystem around boffer combat — a full-contact sport played with foam weapons:
 
 - **[BofferELOBackEnd](https://github.com/JohnPaulAsija/BofferELOBackEnd)** — FastAPI backend for an ELO ranking system tracking competitive results across the community.
 - **[BofferELOFrontEnd](https://github.com/JohnPaulAsija/BofferELOFrontEnd)** — React Native (Expo) mobile frontend for the same.
 - **[Boffer-bot](https://github.com/JohnPaulAsija/Boffer-bot)** — Discord bot that uses generative AI to answer rules questions for Dagorhir and Hearthlight; built with discord.py and Google Gemini.
+
 
 ### Background
 
